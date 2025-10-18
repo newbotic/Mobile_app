@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "Mobile_app",
-    "slug": "mobile-app-vasil-2025",
+  "scheme": "myapp",
+  "name": "Mobile_app",
+  "slug": "mobile-app-vasil-2025",
     "updates": {
       "enabled": true,
       "fallbackToCacheTimeout": 0,
